@@ -2,7 +2,7 @@
   "name": "homepage",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tai-mai.github.io/react-gh-pages",
+  "homepage": "https://tai-mai.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
